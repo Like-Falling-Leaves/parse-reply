@@ -1,0 +1,17 @@
+{
+  "name": "parse-reply",
+  "description": "A simple email body parser that strips out replies and quotes of original message",
+  "keywords": ["email", "message", "quote", "reply", "forward"],
+  "homepage": "https://github.com/like-falling-leaves/parse-reply",
+  "bugs": { "url": "https://github.com/like-falling-leaves/parse-reply/issues" },
+  "license": "MIT",
+  "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
+  "main": "./parse.js",
+  "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
+  "version": "0.0.1",
+  "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/parse-reply.git" },
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": { "mocha": "1.*" },
+  "scripts": { "test": "mocha test/" }
+}

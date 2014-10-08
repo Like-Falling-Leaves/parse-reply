@@ -1,0 +1,7 @@
+This is a sample body for the input.
+
+Blimey: this line should remain in output.
+
+> Simple quotes should also remain in output.
+> No reason to take them out right?
+

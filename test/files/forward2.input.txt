@@ -1,0 +1,5 @@
+This is a sample body for the input.
+
+---------- Forwarded message ----------
+From: Test <test@test.com>
+
