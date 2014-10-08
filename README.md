@@ -2,6 +2,11 @@
 
 Parse email replies with quotes and such.  This is a trivial javascript library that parses email body and strips out quotes/replies/forwarded messages.
 
+[![NPM info](https://nodei.co/npm/parse-reply.png?downloads=true)](https://npmjs.org/package/parse-reply)
+
+[![Travis build status](https://api.travis-ci.org/Like-Falling-Leaves/parse-reply.png?branch=master)](
+https://travis-ci.org/Like-Falling-Leaves/parse-reply)
+
 ## Usage
 
 ```javascripot
