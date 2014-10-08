@@ -8,7 +8,7 @@
   "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
   "main": "./parse.js",
   "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/parse-reply.git" },
   "readmeFilename": "README.md",
   "dependencies": {},

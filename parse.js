@@ -1,9 +1,9 @@
 module.exports = parseReplyPlainText;
 
 var emailRE = "[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?";
-var simpleEmailRE = "\S+@\S+";
+var simpleEmailRE = "\\S+@\\S+";
 module.exports.emailRE = emailRE;
-module.exports.simpleEmailRE = simpleEmailRE;
+module.exports.simpleEmailRE = "\\S+@\\S+";
 
 var froms = ['from'];
 var on = ['on'];
